@@ -229,4 +229,4 @@ This repository serves as the official landing page for Emsisoft Commandline Sca
 **Get the most recent version of Emsisoft Commandline Scanner today!**
 
 ---
-**Last updated:** 2026-10-28 15:52:45 UTC
+**Last updated:** 2026-10-28 20:54:19 UTC
